@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Glenn Mendonca",
   "description": "FCC Backend Dev Course",
+  "keywords": [
+    "freecodecamp",
+    "backend",
+    "api"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
